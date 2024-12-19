@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FaSearch, FaTrophy } from 'react-icons/fa';
 
-// Mock data for featured players
+
 const featuredPlayers = [
   {
     name: 'Virat Kohli',
@@ -29,7 +29,7 @@ const featuredPlayers = [
   },
 ];
 
-// Mock data for player stats
+
 const getStatsData = (format, tab) => ({
   test: {
     batting: [
