@@ -132,7 +132,7 @@ const Navbar = () => {
           </span>
         </div>
       </div>
-    </nav>
+    </nav> 
   );
 };
 
